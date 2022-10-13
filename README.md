@@ -15,10 +15,10 @@ Voici un récapitulatif des patchs réalisés au fil des essais.
 ## v1:
 
 + v1.0:
-    + Première version du jeu des allumettes
+    + Première version du jeu des allumettes.
     
 + v1.1:
-    + Ajout de la vérification du nombre d'allumettes retirée par un joueur
+    + Ajout de la vérification du nombre d'allumettes retirées par un joueur
 
 + v1.2:
     + Correction de la v1.1 où lorsque le joueur rentrait une mauvaise valeur, son tour était passé, ce qui pouvait devenir un atout stratégique pour le joueur en question. Il est désormais obligatoire de rentrer une valeur jusqu'à ce que celle-ci soit correcte (entre 1 et 3).
