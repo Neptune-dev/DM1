@@ -1,7 +1,5 @@
 # DM1
 
-Par Félix Ladislas
-
 **Bienvenue** sur le repository du **DM1 d'algo**.
 
 Vous y trouverez toutes les versions réalisées.
@@ -35,3 +33,5 @@ Voici un récapitulatif des patchs réalisés au fil des essais.
 
 
 ___
+
+Félix Ladislas
