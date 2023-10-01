@@ -1,5 +1,7 @@
 # DM1
 
+<a href="https://github.com/Neptune-dev/DM1/releases/latest/">Release</a>
+
 **Bienvenue** sur le repository du **DM1 d'algo**.
 
 Vous y trouverez toutes les versions réalisées.
